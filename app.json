@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Uber",
-    "slug": "Uber",
+    "name": "Music",
+    "slug": "music",
     "version": "1.1.0",
     "orientation": "portrait",
-    "icon": "./assets/appIcon.png",
+    "icon": "./assets/adaptive-icon.png",
     "splash": {
-      "image": "./assets/splash1.png",
+      "image": "./assets/adaptive-icon.png",
       "resizeMode": "cover",
-      "backgroundColor": "#F4F4F4"
+      "backgroundColor": "#ffd438"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,9 +22,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#ffd438"
       },
-      "package": "com.uber.uber"
+      
+      "package": "com.music.music"
     },
     "web": {
       "favicon": "./assets/favicon.png"
